@@ -1,0 +1,10 @@
+#######################
+# gad three-way merge #
+#######################
+
+# get HEAD: x
+# get fetched last commit: y
+# get merge-base: w
+
+# 
+
